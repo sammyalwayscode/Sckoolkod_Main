@@ -1,0 +1,25 @@
+{
+  "short_name": "SckoolKod",
+  "name": "SckoolKod: Let's Help Manage",
+  "icons": [
+    {
+      "src": "sck.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "sck.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "sck.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
